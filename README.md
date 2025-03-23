@@ -2,6 +2,16 @@
 💡 As a dedicated React Native Developer, I bring a fervent passion for crafting seamless mobile experiences that resonate with users worldwide. <br><br>
 🎥 My journey in app development is driven by a relentless pursuit of innovation and a deep-seated belief in the transformative power of technology.
 
+# 🌐 Get in Touch:
+<div align="center">
+
+[![Portfolio](https://cdn-icons-png.freepik.com/256/6102/6102048.png?semt=ais_hybrid)](https://lornsovannra.vercel.app)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lorn.sovannra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorn-sovannra-aa56251a0)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrrarcel)
+
+</div>
+
 # 🎓 Tech Stack:
 <div align="center">
 
