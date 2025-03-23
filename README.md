@@ -3,8 +3,7 @@
 🎥 My journey in app development is driven by a relentless pursuit of innovation and a deep-seated belief in the transformative power of technology.
 
 # 🎓 Tech Stack:
-<div align="center">
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -23,12 +22,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-</div>
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)</div>
 
 # 💎 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=LornSovannra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">![](https://github-readme-stats.vercel.app/api?username=LornSovannra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LornSovannra&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LornSovannra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LornSovannra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</div>
