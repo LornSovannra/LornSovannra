@@ -5,11 +5,25 @@
 # 🌐 Get in Touch:
 <div align="center">
 
-[![Portfolio](https://cdn-icons-png.freepik.com/256/6102/6102048.png?semt=ais_hybrid)](https://lornsovannra.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lorn.sovannra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorn-sovannra-aa56251a0)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrrarcel)
 
+</div>
+
+<div align="left">
+  <a href="https://web.facebook.com/lorn.sovannra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/lorn-sovannra-aa56251a0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/lornsovannra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="sovannra.lorn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 # 🎓 Tech Stack:
@@ -46,3 +60,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LornSovannra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/LornSovannra/LornSovannra/output/snake.svg" alt="Snake animation" />
