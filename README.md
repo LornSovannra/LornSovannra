@@ -3,7 +3,8 @@
 🎥 My journey in app development is driven by a relentless pursuit of innovation and a deep-seated belief in the transformative power of technology.
 
 # 🎓 Tech Stack:
-!<div align="center">
+
+<div align="center">
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
