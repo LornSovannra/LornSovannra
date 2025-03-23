@@ -4,12 +4,7 @@
 
 # 🌐 Get in Touch:
 <div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lorn.sovannra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorn-sovannra-aa56251a0)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrrarcel)
-
-  <a href="https://web.facebook.com/lorn.sovannra](https://tiktok.com/@mrrarcel)" target="_blank">
+  <a href="https://tiktok.com/@mrrarcel" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" height="30" alt="tiktok logo"  />
   </a>
   <a href="https://web.facebook.com/lorn.sovannra" target="_blank">
