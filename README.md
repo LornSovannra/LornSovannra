@@ -1,5 +1,5 @@
 # 👑 About Me:
-💡 As a dedicated Mobile App Developer, I bring a fervent passion for crafting seamless mobile experiences that resonate with users worldwide. <br><br>
+💡 As a dedicated Senior Mobile App Developer, I bring a fervent passion for crafting seamless mobile experiences that resonate with users worldwide. <br><br>
 🎥 My journey in app development is driven by a relentless pursuit of innovation and a deep-seated belief in the transformative power of technology.
 
 # 🌐 Get in Touch:
