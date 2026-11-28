@@ -1,10 +1,10 @@
 # 👑 About Me:
-💡 As a dedicated Senior Mobile App Developer, I bring a fervent passion for crafting seamless mobile experiences that resonate with users worldwide. <br><br>
+💡 As a dedicated Mobile App Supervisor, I bring a fervent passion for crafting seamless mobile experiences that resonate with users worldwide. <br><br>
 🎥 My journey in app development is driven by a relentless pursuit of innovation and a deep-seated belief in the transformative power of technology.
 
 # 🌐 Get in Touch:
 <div align="center">
-  <a href="https://tiktok.com/@mrrarcel" target="_blank">
+  <a href="https://www.tiktok.com/@lornsovannra" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" height="30" alt="tiktok logo"  />
   </a>
   <a href="https://web.facebook.com/lorn.sovannra" target="_blank">
